@@ -1,0 +1,2 @@
+-keep class com.localllm.server.data.inference.** { *; }
+-dontwarn org.slf4j.**
